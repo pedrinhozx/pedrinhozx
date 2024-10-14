@@ -1,6 +1,6 @@
  Boas vindas ao meu perfil
 
-Meu nome é:petrus argenteus
+My name is:petrus argenteus
 
 - Estou estudando na [Alura]
 - Estou me desenvolvendo na linguagem JavaScript
